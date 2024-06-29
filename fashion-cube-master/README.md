@@ -1,6 +1,6 @@
 # Fashion Cube-Ecommerce Application
 
-#General Info
+## General Info
 
 front-end: Reactjs, Redux, Axios, Sass, react-bootstrap
 
